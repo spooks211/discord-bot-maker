@@ -1,0 +1,26 @@
+{
+  "name": "bot-maker",
+  "version": "1.0.0",
+  "description": "bot maker",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spooks211/discord-bot-maker.git"
+  },
+  "author": "Nojus Povilaitis",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/spooks211/discord-bot-maker/issues"
+  },
+  "homepage": "https://github.com/spooks211/discord-bot-maker#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}

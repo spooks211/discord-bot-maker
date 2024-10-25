@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES2023",
+        "module": "NodeNext",
+        "rootDir": "./",
+        "outDir": "./dist",
+        "removeComments": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "skipLibCheck": false,
+        "moduleResolution": "NodeNext"
+    }
+}
