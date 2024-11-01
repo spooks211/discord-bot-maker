@@ -10,6 +10,8 @@
         "strict": true,
         "strictNullChecks": true,
         "skipLibCheck": false,
-        "moduleResolution": "NodeNext"
+        "moduleResolution": "NodeNext",
+        "allowImportingTsExtensions": true,
+        "noEmit": true
     }
 }
